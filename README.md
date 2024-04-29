@@ -22,7 +22,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: SREEVALSAN V
+Developed by: SREEVALSAN.V
 RegisterNumber:  21223240158
 */
 ```
